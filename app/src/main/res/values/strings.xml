@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">pokemon</string>
+    <string name="app_name">Pokemon</string>
+
+    <string name="menu_saved_pokemon">Saved</string>
 </resources>
